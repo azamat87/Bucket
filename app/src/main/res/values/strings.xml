@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bucket Drops</string>
+    <string name="str.add.drop">Add a Drop</string>
+    <string name="hint_ed_drop">What is it?</string>
+    <string name="add_it">Add it</string>
+    <string name="action_none">None</string>
+    <string name="action_most_time_left">Most Time Left</string>
+    <string name="action_least_time_left">Least Time Left</string>
+    <string name="action_complete">Complete</string>
+    <string name="action_incomplete">Incomplete</string>
+    <string name="action_add">Add</string>
+    <string name="no_item_to_display">No Item To Display</string>
+    <string name="notif_message">You are nearing your goal</string>
+    <string name="notif_title">Achievement</string>
+</resources>
